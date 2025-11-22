@@ -1,0 +1,1 @@
+# dio-lab-vibe-coding-entrevistador-testes-manuais
